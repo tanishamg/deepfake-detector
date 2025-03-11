@@ -6,3 +6,4 @@ numpy
 pandas
 opencv-python
 efficientnet_pytorch
+opencv-python-headless
