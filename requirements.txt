@@ -8,3 +8,4 @@ opencv-python
 efficientnet_pytorch
 opencv-python-headless
 tqdm
+opencv-python-headless==4.9.0.80
