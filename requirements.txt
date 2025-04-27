@@ -7,3 +7,4 @@ pandas
 opencv-python-headless==4.9.0.80
 efficientnet_pytorch
 tqdm
+opencv-python
